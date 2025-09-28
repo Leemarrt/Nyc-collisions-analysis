@@ -56,6 +56,7 @@ DIVIDE ( [Fatal Collisions], [Total Collisions], 0 )
 ```
 
 ##  Data
-- Source: NYC collisions (https://docs.google.com/spreadsheets/d/1huf7nbHNZdzr4N6QUvURxeWU-G27KSYU3Kl3v_heXgw/edit?usp=sharing)
+Data Source: " NYC Open Data (Motor Vehicle Collisions dataset)”
+- NYC collisions (https://docs.google.com/spreadsheets/d/1huf7nbHNZdzr4N6QUvURxeWU-G27KSYU3Kl3v_heXgw/edit?usp=sharing)
 
 
