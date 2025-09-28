@@ -17,16 +17,16 @@ Built end-to-end with **Power Query**, **DAX**, and **custom theming**.
 │   ├── backgrounds/
 │   │   ├── NYC_Collisions_Dashboard_Background_1920x1200*.png
 │   │   └── Road_User_Impact_Dashboard_Background_1920x1200*.png
-│   └── screenshots/   # add your actual dashboard screenshots here
-├── data/              # optional (avoid pushing large/raw data)
-├── docs/              # optional writeups/exports
-├── pbix/              # place your .pbix files here
+│   └── screenshots/ 
+├── data/              
+├── docs/              
+├── pbix/             
 ├── powerbi/
 │   └── nyc_collisions_powerbi_theme.json
 ├── .gitignore
 ├── LICENSE (MIT)
 └── README.md
-```
+
 
 ##  Key Visuals (Overview page)
 - **KPIs:** Total Collisions • Total Injuries • Total Fatalities • Fatal Collisions • % Fatal • PDO.
