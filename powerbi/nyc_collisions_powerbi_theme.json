@@ -1,0 +1,16 @@
+{
+  "name": "NYC Collisions \u2013 Capstone Theme",
+  "dataColors": [
+    "#1f77b4",
+    "#ff7f0e",
+    "#d62728",
+    "#2ca02c",
+    "#9467bd",
+    "#7f7f7f",
+    "#17becf",
+    "#bcbd22"
+  ],
+  "background": "#ffffff",
+  "foreground": "#111111",
+  "tableAccent": "#1f77b4"
+}
