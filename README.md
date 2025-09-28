@@ -1,4 +1,4 @@
-# NYC Traffic Collisions — Power BI Capstone
+# NYC Traffic Collisions 
 
 ![Banner](assets/repo-banner.png)
 
