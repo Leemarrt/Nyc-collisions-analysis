@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Power BI / temp
+*.tmp
+*.bak
+
+# Data (keep structure, not raw files)
+data/raw/*
+!data/.gitkeep
+
+# Notebooks/checkpoints
+.ipynb_checkpoints/
+
+# OS cruft
+~$*
