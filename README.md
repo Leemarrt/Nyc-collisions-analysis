@@ -2,7 +2,7 @@
 
 ![Banner](assets/repo-banner.png)
 
-A two-page Power BI project exploring **when, where, and why** collisions happen in NYC, plus **who gets hurt**. 
+A two-page Power BI project exploring  **who gets hurt**, **when, where, and why** collisions happen in New York City. 
 Built end-to-end with **Power Query**, **DAX**, and **custom theming**.
 
 ##  Dashboards
