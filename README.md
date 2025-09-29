@@ -6,8 +6,8 @@
 This project analyzes New York City traffic collisions to uncover **when, where, and why accidents happen, and who is most affected**.  
 
 Two Power BI dashboards were developed:  
-1. **Collisions Overview** — KPIs, seasonal trends, time-of-day hotspots, top streets, and contributing factors.  
-2. **Road User Impact** — injuries and fatalities across pedestrians, cyclists, and motorists.  
+1. **Collisions Overview** — KPIs, seasonal trends, time-of-day hotspots, top streets, and contributing factors. ** ![dashboard](powerbi/Nyc_collisions_Dashboard.png)**
+2. **Road User Impact** — injuries and fatalities across pedestrians, cyclists, and motorists. ** ![dashboard](powerbi/Road_User_Impact_Dashboard.png)** 
 
 Key insights: Over **2,400 collisions in a single peak hour** (Friday 17:00–18:00), **human error/distraction** as the leading cause, and **Brooklyn** as the most impacted borough. These findings provide actionable evidence for **policy makers and urban safety planning**.
 
